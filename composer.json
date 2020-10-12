@@ -1,0 +1,12 @@
+{
+	"name": "incraft/hexlet-php",
+	"description": "Hexlet-php",
+	"type": "symfony-bundle",
+	"license": "MIT",
+	"authors": [{
+		"name": "Krillliad",
+		"email": "krillliad2211@gmail.com"
+	}],
+	"minimum-stability": "stable",
+	"require": {}
+}
