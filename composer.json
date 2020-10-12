@@ -8,5 +8,7 @@
 		"email": "krillliad2211@gmail.com"
 	}],
 	"minimum-stability": "stable",
-	"require": {}
+	"require": {
+		"tightenco/collect": "^8.0"
+	}
 }
