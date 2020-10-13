@@ -2,19 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5303027-32d0-4856-bd83-a08b4f327f37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/hexlet-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hexlet-php.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/collect" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1ib4EIRCpE7DD7aNeqr1x7e3MuZ" />
   <component name="ProjectViewState">
@@ -39,11 +53,19 @@
       <workItem from="1602162845389" duration="179000" />
       <workItem from="1602210323790" duration="605000" />
       <workItem from="1602470415218" duration="750000" />
-      <workItem from="1602504876393" duration="5008000" />
+      <workItem from="1602504876393" duration="5143000" />
+      <workItem from="1602556959123" duration="25000" />
+      <workItem from="1602592172963" duration="724000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="467" width="523" height="246" key="ComposerInitDialogKey" timestamp="1602592413534">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="729" y="467" width="523" height="246" key="ComposerInitDialogKey/72.26.1848.1054@72.26.1848.1054" timestamp="1602592413534" />
   </component>
 </project>

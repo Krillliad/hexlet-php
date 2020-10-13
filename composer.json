@@ -10,5 +10,11 @@
 	"minimum-stability": "stable",
 	"require": {
 		"tightenco/collect": "^8.0"
+	},
+	"name": "hexlet/pairs",
+	"autoload": {
+		"files": [
+			"src/Runner.php"
+		]
 	}
 }
